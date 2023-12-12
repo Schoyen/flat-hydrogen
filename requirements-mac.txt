@@ -1,0 +1,11 @@
+numpy
+wheel
+ml-dtypes==0.2.0
+jax-metal
+sinc-dvr @ git+ssh://git@github.com/HyQD/sinc-dvr
+
+jupyter
+black[jupyter]
+pint
+tqdm
+matplotlib
