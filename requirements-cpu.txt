@@ -1,0 +1,8 @@
+sinc-dvr[cpu] @ git+ssh://git@github.com/HyQD/sinc-dvr
+integrators[cpu] @ git+ssh://git@github.com/Schoyen/integrators
+
+jupyter
+black[jupyter]
+pint
+tqdm
+matplotlib

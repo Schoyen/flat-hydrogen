@@ -3,6 +3,7 @@ wheel
 ml-dtypes==0.2.0
 jax-metal
 sinc-dvr @ git+ssh://git@github.com/HyQD/sinc-dvr
+integrators @ git+ssh://git@github.com/Schoyen/integrators
 
 jupyter
 black[jupyter]
